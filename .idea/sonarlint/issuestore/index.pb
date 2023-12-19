@@ -9,3 +9,5 @@ L
 camel-microservice-b/pom.xml,b/9/b9f422dbd704ce669c6551fc36c94c89600a1f5a
 è
 _camel-microservice-b/src/main/java/com/collicode/camelmicroserviceb/ActiveMqReceiverRouter.java,a/4/a4d26a717dd525b2b113441c665ffb0031608746
+O
+camel-microservice-b/.gitignore,5/3/538dd04899840d0bdae098b032277063e91d9cba
