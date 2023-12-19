@@ -14,7 +14,7 @@
 	<name>camel-microservice-a</name>
 	<description>Demo project for Camel</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 		<camel.version>3.7.0</camel.version>
 	</properties>
 	<dependencies>
